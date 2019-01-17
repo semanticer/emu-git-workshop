@@ -3,6 +3,9 @@
 1. git basics - what is git and what it is used for
 2. git commit - what is commit, how the commit hash is calculated and how to proper commit your features, fixes, etc...
 
+
+some mother fucking changes
+
 # Next time
 ... more comming soon
 3. git branch
