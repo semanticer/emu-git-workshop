@@ -6,6 +6,9 @@
 
 some mother fucking changes
 
+dasli picovinka
+
+
 # Next time
 ... more comming soon
 3. git branch
